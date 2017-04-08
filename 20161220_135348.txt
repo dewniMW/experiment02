@@ -1,0 +1,1 @@
+No. of wins: 1 	No. of loses: 9 	Average no. of credits netted per game: 0.5
